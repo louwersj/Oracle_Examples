@@ -1,0 +1,2 @@
+-- Create table MEDICINE_DISTRIBUTION
+-- For all the example to work this should be created under C##USER1
