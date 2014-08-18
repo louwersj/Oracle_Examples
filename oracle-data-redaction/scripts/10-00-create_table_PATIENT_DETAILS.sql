@@ -1,4 +1,4 @@
--- Create table MEDICINE_DISTRIBUTION
+-- Create table PATIENT_DETAILS
 -- For all the example to work this should be created under C##USER1
 
 CREATE TABLE PATIENT_DETAILS 
