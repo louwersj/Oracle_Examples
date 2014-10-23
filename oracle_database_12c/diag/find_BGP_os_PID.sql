@@ -1,5 +1,5 @@
 /* NAME:
- * find_os_PID.sql
+ * find_BGP_os_PID.sql
  *
  * DESC:
  * Locate all OS pid's associated with the background processes of the database. 
