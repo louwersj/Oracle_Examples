@@ -1,0 +1,11 @@
+SELECT b.paddr,
+  b.PSERIAL#,
+  b.NAME,
+  b.ERROR,
+  b.DESCRIPTION,
+  b.CON_ID,
+  p.SPID
+FROM V$BGPROCESS b,
+  V$PROCESS p
+WHERE 
+     b.PADDR = p.ADDR
